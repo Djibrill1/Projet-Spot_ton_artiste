@@ -1,15 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
 
-*div{
-    background-image: url("https://www.conseilsmarketing.com/mailings/ou-trouver-des-musiques-libres-de-droits-pour-ses-videos/");
+
+div{
+    color: brown;
+    font-family: 'https://fonts.googleapis.com/css2?family=Montserrat&display=swap';
+    
+    
 }
 body
 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('Musique-0.webp'); 
+    background: url('Musique-1.webp'); 
     background-size: cover;
     color: black;
     padding: 300px;
@@ -75,5 +77,31 @@ button {
 
 
 label {
-    color: white;
+    color: black;
 }
+
+#Connexion{
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
